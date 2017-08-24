@@ -1,2 +1,3 @@
 # project-euler
-Project Euler Solutions
+
+Javascript solutions to the Project Euler problems...
